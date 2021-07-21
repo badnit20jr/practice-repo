@@ -16,7 +16,10 @@ I am _passionate about_:
 
 - Video games
 
-- 
+- | Prefix | Number | Name                         | Credits |
+  |:------:|:------:|:----------------------------:|:-------:|
+  | **COP**|**2073**|_Introduction to Data Science_|    3    |
+  | **MAC**|**2311**|_Analytic Geometry and Calculus 1_|4    |
 
 ***
 
